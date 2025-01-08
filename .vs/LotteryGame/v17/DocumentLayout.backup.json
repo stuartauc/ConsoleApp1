@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stuar\\source\\repos\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF587DE-DCE3-47CF-BE10-21A798DC79F5}|LotteryGame.Tests\\LotteryGame.Tests.csproj|c:\\users\\stuar\\source\\repos\\consoleapp1\\lotterygame.tests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF587DE-DCE3-47CF-BE10-21A798DC79F5}|LotteryGame.Tests\\LotteryGame.Tests.csproj|solutionrelative:lotterygame.tests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9FEB04-0C62-4B3E-BEEE-6C2A8FE71DA6}|LotteryGame.Common\\LotteryGame.Common.csproj|c:\\users\\stuar\\source\\repos\\consoleapp1\\lotterygame.common\\userfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9FEB04-0C62-4B3E-BEEE-6C2A8FE71DA6}|LotteryGame.Common\\LotteryGame.Common.csproj|solutionrelative:lotterygame.common\\userfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9FEB04-0C62-4B3E-BEEE-6C2A8FE71DA6}|LotteryGame.Common\\LotteryGame.Common.csproj|c:\\users\\stuar\\source\\repos\\consoleapp1\\lotterygame.common\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9FEB04-0C62-4B3E-BEEE-6C2A8FE71DA6}|LotteryGame.Common\\LotteryGame.Common.csproj|solutionrelative:lotterygame.common\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9FEB04-0C62-4B3E-BEEE-6C2A8FE71DA6}|LotteryGame.Common\\LotteryGame.Common.csproj|c:\\users\\stuar\\source\\repos\\consoleapp1\\lotterygame.common\\lottery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9FEB04-0C62-4B3E-BEEE-6C2A8FE71DA6}|LotteryGame.Common\\LotteryGame.Common.csproj|solutionrelative:lotterygame.common\\lottery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB9ED3A-12BE-4CA7-9313-5EF049E51C6B}|ConsoleApp1\\LotteryGame.App.csproj|c:\\users\\stuar\\source\\repos\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB9ED3A-12BE-4CA7-9313-5EF049E51C6B}|ConsoleApp1\\LotteryGame.App.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF587DE-DCE3-47CF-BE10-21A798DC79F5}|LotteryGame.Tests\\LotteryGame.Tests.csproj|c:\\users\\stuar\\source\\repos\\consoleapp1\\lotterygame.tests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF587DE-DCE3-47CF-BE10-21A798DC79F5}|LotteryGame.Tests\\LotteryGame.Tests.csproj|solutionrelative:lotterygame.tests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9FEB04-0C62-4B3E-BEEE-6C2A8FE71DA6}|LotteryGame.Common\\LotteryGame.Common.csproj|c:\\users\\stuar\\source\\repos\\consoleapp1\\lotterygame.common\\ticketfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9FEB04-0C62-4B3E-BEEE-6C2A8FE71DA6}|LotteryGame.Common\\LotteryGame.Common.csproj|solutionrelative:lotterygame.common\\ticketfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9FEB04-0C62-4B3E-BEEE-6C2A8FE71DA6}|LotteryGame.Common\\LotteryGame.Common.csproj|c:\\users\\stuar\\source\\repos\\consoleapp1\\lotterygame.common\\iticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9FEB04-0C62-4B3E-BEEE-6C2A8FE71DA6}|LotteryGame.Common\\LotteryGame.Common.csproj|solutionrelative:lotterygame.common\\iticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9FEB04-0C62-4B3E-BEEE-6C2A8FE71DA6}|LotteryGame.Common\\LotteryGame.Common.csproj|c:\\users\\stuar\\source\\repos\\consoleapp1\\lotterygame.common\\prize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9FEB04-0C62-4B3E-BEEE-6C2A8FE71DA6}|LotteryGame.Common\\LotteryGame.Common.csproj|solutionrelative:lotterygame.common\\prize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tests.cs",
+              "DocumentMoniker": "C:\\Users\\stuar\\source\\repos\\ConsoleApp1\\LotteryGame.Tests\\Tests.cs",
+              "RelativeDocumentMoniker": "LotteryGame.Tests\\Tests.cs",
+              "ToolTip": "C:\\Users\\stuar\\source\\repos\\ConsoleApp1\\LotteryGame.Tests\\Tests.cs*",
+              "RelativeToolTip": "LotteryGame.Tests\\Tests.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:57:38.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\stuar\\source\\repos\\ConsoleApp1\\LotteryGame.Tests\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "LotteryGame.Tests\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\stuar\\source\\repos\\ConsoleApp1\\LotteryGame.Tests\\MSTestSettings.cs",
+              "RelativeToolTip": "LotteryGame.Tests\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:56:52.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserFactory.cs",
+              "DocumentMoniker": "C:\\Users\\stuar\\source\\repos\\ConsoleApp1\\LotteryGame.Common\\UserFactory.cs",
+              "RelativeDocumentMoniker": "LotteryGame.Common\\UserFactory.cs",
+              "ToolTip": "C:\\Users\\stuar\\source\\repos\\ConsoleApp1\\LotteryGame.Common\\UserFactory.cs",
+              "RelativeToolTip": "LotteryGame.Common\\UserFactory.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T13:11:36.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\stuar\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\stuar\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T20:20:14.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITicket.cs",
+              "DocumentMoniker": "C:\\Users\\stuar\\source\\repos\\ConsoleApp1\\LotteryGame.Common\\ITicket.cs",
+              "RelativeDocumentMoniker": "LotteryGame.Common\\ITicket.cs",
+              "ToolTip": "C:\\Users\\stuar\\source\\repos\\ConsoleApp1\\LotteryGame.Common\\ITicket.cs",
+              "RelativeToolTip": "LotteryGame.Common\\ITicket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T20:19:41.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Prize.cs",
+              "DocumentMoniker": "C:\\Users\\stuar\\source\\repos\\ConsoleApp1\\LotteryGame.Common\\Prize.cs",
+              "RelativeDocumentMoniker": "LotteryGame.Common\\Prize.cs",
+              "ToolTip": "C:\\Users\\stuar\\source\\repos\\ConsoleApp1\\LotteryGame.Common\\Prize.cs",
+              "RelativeToolTip": "LotteryGame.Common\\Prize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T11:04:37.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lottery.cs",
+              "DocumentMoniker": "C:\\Users\\stuar\\source\\repos\\ConsoleApp1\\LotteryGame.Common\\Lottery.cs",
+              "RelativeDocumentMoniker": "LotteryGame.Common\\Lottery.cs",
+              "ToolTip": "C:\\Users\\stuar\\source\\repos\\ConsoleApp1\\LotteryGame.Common\\Lottery.cs",
+              "RelativeToolTip": "LotteryGame.Common\\Lottery.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAADwv48AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T16:13:47.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "C:\\Users\\stuar\\source\\repos\\ConsoleApp1\\LotteryGame.Common\\IUser.cs",
+              "RelativeDocumentMoniker": "LotteryGame.Common\\IUser.cs",
+              "ToolTip": "C:\\Users\\stuar\\source\\repos\\ConsoleApp1\\LotteryGame.Common\\IUser.cs",
+              "RelativeToolTip": "LotteryGame.Common\\IUser.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T16:06:33.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TicketFactory.cs",
+              "DocumentMoniker": "C:\\Users\\stuar\\source\\repos\\ConsoleApp1\\LotteryGame.Common\\TicketFactory.cs",
+              "RelativeDocumentMoniker": "LotteryGame.Common\\TicketFactory.cs",
+              "ToolTip": "C:\\Users\\stuar\\source\\repos\\ConsoleApp1\\LotteryGame.Common\\TicketFactory.cs",
+              "RelativeToolTip": "LotteryGame.Common\\TicketFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAnwCAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:26:41.275Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

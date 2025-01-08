@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>LotteryGame.App</id>
+    <version>1.0.0</version>
+    <authors>LotteryGame.App</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="LotteryGame.Common" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection" version="9.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Hosting" version="9.0.0" exclude="Build,Analyzers" />
+        <dependency id="System.Configuration.ConfigurationManager" version="9.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\stuar\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\LotteryGame.App.runtimeconfig.json" target="lib\net8.0\LotteryGame.App.runtimeconfig.json" />
+    <file src="C:\Users\stuar\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\LotteryGame.App.dll" target="lib\net8.0\LotteryGame.App.dll" />
+  </files>
+</package>

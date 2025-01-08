@@ -1,0 +1,12 @@
+C:\Users\stuar\source\repos\ConsoleApp1\LotteryGame.Common\bin\Debug\net8.0\LotteryGame.Common.deps.json
+C:\Users\stuar\source\repos\ConsoleApp1\LotteryGame.Common\bin\Debug\net8.0\LotteryGame.Common.dll
+C:\Users\stuar\source\repos\ConsoleApp1\LotteryGame.Common\bin\Debug\net8.0\LotteryGame.Common.pdb
+C:\Users\stuar\source\repos\ConsoleApp1\LotteryGame.Common\obj\Debug\net8.0\LotteryGame.Common.csproj.AssemblyReference.cache
+C:\Users\stuar\source\repos\ConsoleApp1\LotteryGame.Common\obj\Debug\net8.0\LotteryGame.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stuar\source\repos\ConsoleApp1\LotteryGame.Common\obj\Debug\net8.0\LotteryGame.Common.AssemblyInfoInputs.cache
+C:\Users\stuar\source\repos\ConsoleApp1\LotteryGame.Common\obj\Debug\net8.0\LotteryGame.Common.AssemblyInfo.cs
+C:\Users\stuar\source\repos\ConsoleApp1\LotteryGame.Common\obj\Debug\net8.0\LotteryGame.Common.csproj.CoreCompileInputs.cache
+C:\Users\stuar\source\repos\ConsoleApp1\LotteryGame.Common\obj\Debug\net8.0\LotteryGame.Common.dll
+C:\Users\stuar\source\repos\ConsoleApp1\LotteryGame.Common\obj\Debug\net8.0\refint\LotteryGame.Common.dll
+C:\Users\stuar\source\repos\ConsoleApp1\LotteryGame.Common\obj\Debug\net8.0\LotteryGame.Common.pdb
+C:\Users\stuar\source\repos\ConsoleApp1\LotteryGame.Common\obj\Debug\net8.0\ref\LotteryGame.Common.dll
